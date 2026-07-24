@@ -26,6 +26,8 @@ We connected two PCs directly using a **Copper Cross-Over** cable. This allowed 
 ### Serial DCE/DTE
 We connected two routers using a **Serial DCE/DTE** cable to simulate a WAN connection. We also learned how to install serial modules (**HWIC-2T**) on routers to enable serial communication.
 
+<img width="959" height="539" alt="Screenshot 2026-07-25 at 01.05.58.png" src="https://github.com/user-attachments/assets/8ff7c5a6-3c3c-4cb4-b09a-8b5470cf1e8d" />
+
 ---
 
 ## Objectives and Advantages of Using Packet Tracer
