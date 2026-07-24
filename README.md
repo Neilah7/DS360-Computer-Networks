@@ -28,19 +28,4 @@ We connected two routers using a **Serial DCE/DTE** cable to simulate a WAN conn
 
 <img width="959" height="539" alt="Screenshot 2026-07-25 at 01.05.58.png" src="https://github.com/user-attachments/assets/Screenshot 2026-07-25 at 01.05.58.png" />
 
----
 
-## Objectives and Advantages of Using Packet Tracer
-
-### Objectives
-- Design and simulate network topologies
-- Configure routers, switches, and end devices
-- Learn IP addressing and routing concepts
-- Test network connectivity without physical hardware
-
-### Advantages
-- Provides a safe environment for experimentation
-- Reduces the need for expensive networking equipment
-- Allows visualization of packet transmission
-- Supports troubleshooting and configuration testing
-- Improves practical networking skills
