@@ -26,7 +26,7 @@ We connected two PCs directly using a **Copper Cross-Over** cable. This allowed 
 ### Serial DCE/DTE
 We connected two routers using a **Serial DCE/DTE** cable to simulate a WAN connection. We also learned how to install serial modules (**HWIC-2T**) on routers to enable serial communication.
 
-<img width="959" height="539" alt="Screenshot 2026-07-25 at 01.05.58.png" src="https://raw.githubusercontent.com/Neilah7/DS360-Computer-Networks/main/images/Screenshot%202026-07-25%20at%2001.05.58.png " />
+<img width="959" height="539" alt="Screenshot 2026-07-25 at 01.05.58.png" src="https://github.com/user-attachments/assets/Screenshot 2026-07-25 at 01.05.58.png" />
 
 ---
 
